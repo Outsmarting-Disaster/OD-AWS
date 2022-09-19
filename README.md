@@ -7,10 +7,10 @@
 
 ## What is the OD-AWS?
 
-
 ## How does it work?
-![SCh](MainBoard/sch.png)
-![BRD](MainBoard/od-aws.png)
+![flow](wiki/flow.png)
+![mesh](wiki/meshConcept.png)
+
 
 ## Installation
 Check out the [Wiki](https://github.com/Outsmarting-DIsaster/OD-AWS/wiki) to learn how to build your own Automatic Weather Station.
@@ -19,7 +19,10 @@ Check out the [Wiki](https://github.com/Outsmarting-DIsaster/OD-AWS/wiki) to lea
 
 From the project root, run the following snippet:
 
-
+## Asembly
+![board](wiki/board.jpeg)
+![side](wiki/side.jpeg)
+![side-full](wiki/side-full.jpeg)
 ## How to Contribute
 
 ## License
