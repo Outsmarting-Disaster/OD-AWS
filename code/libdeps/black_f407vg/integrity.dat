@@ -1,0 +1,4 @@
+ostaquet/SIM800L HTTP connector@^1.14.0
+bblanchon/ArduinoJson@^6.19.4
+stm32duino/STM32duino STM32SD@^1.2.3
+sandeepmistry/LoRa@^0.8.0
